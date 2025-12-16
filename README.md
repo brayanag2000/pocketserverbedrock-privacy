@@ -1,6 +1,3 @@
-# pocketserverbedrock-privacy
-Privacy Policy for the PocketServerBedrock Android application.
-
 # Política de Privacidad – PocketServerBedrock
 
 PocketServerBedrock es una aplicación diseñada para permitir a los usuarios crear y ejecutar un servidor PocketMine-MP de forma local directamente desde su dispositivo Android.
